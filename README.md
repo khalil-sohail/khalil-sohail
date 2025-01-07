@@ -25,6 +25,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=error244&show_icons=true&locale=en&layout=compact" alt="error244" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=error244&" alt="error244" /></p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ERROR244&theme=shadow_blue&hide_border=false)<br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=error244&show_icons=true&locale=en" alt="error244" /></p>
