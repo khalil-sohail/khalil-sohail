@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Webserv](https://cdn.intra.42.fr/pdf/pdf/109738/en.subject.pdf)
 
-- 🌱 I’m currently learning **c++, python, Machine Learning & Data Science(+Pandas, NumPy, Matplotlib)**
+- 🌱 I’m currently learning **c++, python, Machine Learning & Data Science(+Pandas, NumPy, Matplotlib, scikit_learn)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ERROR244](https://github.com/ERROR244)
 
