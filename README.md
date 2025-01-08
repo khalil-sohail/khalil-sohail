@@ -28,4 +28,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ERROR244&theme=shadow_blue&hide_border=false)<br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=error244&show_icons=true&locale=en" alt="error244" /></p>
-const char* response = "HTTP/1.1 200 OK\r\nContent-Type: text/plain\r\nContent-Length: 13\r\n\r\nHello, world!";
+
