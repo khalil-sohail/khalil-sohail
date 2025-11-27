@@ -1,16 +1,11 @@
 <h1 align="center">Hi 👋, I'm khalil sohail</h1>
 <h3 align="center">🎯 Software Developer | Chess Enthusiast | Exploring C, C++, pyton, and Beyond 🎨</h3>
 
-<p align="middle"> <img src="https://komarev.com/ghpvc/?username=error244&label=Profile%20views&color=0e75b6&style=flat" alt="error244" /> </p>
-
 <p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=error244&theme=onedark&row=2&column=3" alt="error244" /></a> </p>
 
 - 🔭 Currently on an internship while building full-stack systems with **Next.js, Supabase, PostgreSQL, Docker, and focusing on backend architecture.**
-
 - 🌱 Deepening skills in **C, C++, Python, and expanding into machine learning, data analysis, and modern JS/TS ecosystems.**
-
 - 👨‍💻 Completed major 42/1337 projects including **Inception** , **Webserv** and **ft_transcendence**, plus multiple production-ready React apps.
-
 - 🎯 Next goal: reach Level **16 at 1337 School.**
 
 <h3 align="left">Connect with me:</h3>
