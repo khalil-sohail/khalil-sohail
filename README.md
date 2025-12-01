@@ -3,10 +3,10 @@
 
 <p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=error244&theme=onedark&row=2&column=3" alt="error244" /></a> </p>
 
-- 🔭 Currently on an internship while building full-stack systems with **Next.js, Supabase, PostgreSQL, Docker, and focusing on backend architecture.**
-- 🌱 Deepening skills in **C, C++, Python, and expanding into machine learning, data analysis, and modern JS/TS ecosystems.**
-- 👨‍💻 Completed major 42/1337 projects including **Inception** , **Webserv** and **ft_transcendence**, plus multiple production-ready React apps.
-- 🎯 Next goal: reach Level **16 at 1337 School.**
+- Currently on an internship while building full-stack systems with **Next.js, Supabase, PostgreSQL, Docker, and focusing on backend architecture.**
+- Deepening skills in **C, C++, Python, and expanding into machine learning, data analysis, and modern JS/TS ecosystems.**
+- Completed major 42/1337 projects including **Inception** , **Webserv** and **ft_transcendence**, plus multiple production-ready React apps.
+- Next goal: reach Level **16 at 1337 School.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="middle">
