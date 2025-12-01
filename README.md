@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm khalil sohail</h1>
-<h3 align="center">🎯 Software Developer | Chess Enthusiast | Exploring C, C++, pyton, and Beyond 🎨</h3>
+<h1 align="center">Hi, I'm khalil sohail</h1>
+<h3 align="center">Software Developer | Chess Enthusiast | Exploring C, C++, pyton, and Beyond</h3>
 
 <p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=error244&theme=onedark&row=2&column=3" alt="error244" /></a> </p>
 
