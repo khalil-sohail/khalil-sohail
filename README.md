@@ -1,6 +1,6 @@
 # Khalil
 
-Software Engineering Student @ **1337 (42 Network)** | Software Engineer Intern @ **theForge**
+Software Engineering Student @ **1337 (42 Network)**
 
 ### 💻 Tech Stack
 * **Languages:** C/C++, Python, TypeScript, Java
