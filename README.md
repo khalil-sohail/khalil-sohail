@@ -6,7 +6,7 @@ I build full-stack platforms, real-time systems, C++/systems projects, and cloud
 
 ## Featured Work
 
-* **[Bitboard](https://bitboard.ksohail.space/)** — Custom C++23 chess engine with a real-time Next.js/WebSocket analysis platform.
+* **[Bitboard](https://github.com/khalil-sohail/BitBoard)** — Custom C++23 chess engine with a real-time Next.js/WebSocket analysis platform.
 * **[1337AI Hub](https://1337ai.hackai.ma/)** — Event-management and evaluation platform for AI events, covering challenges, submissions, reviewer scoring, and final project evaluation.
 * **[Cloud-1](https://github.com/khalil-sohail/Cloud-1)** — Terraform/Ansible cloud deployment pipeline for a Dockerized web stack with Nginx and Let's Encrypt TLS.
 * **[ft_sklearn](https://github.com/khalil-sohail/ft_sklearn)** — Machine learning library from scratch using Python and NumPy.
